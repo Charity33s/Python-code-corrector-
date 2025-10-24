@@ -1,0 +1,5 @@
+{
+  "name": "Python Code Corrector AI",
+  "description": "An intelligent web application that uses AI to analyze, correct, and explain errors in Python code snippets, helping developers improve their code quality.",
+  "requestFramePermissions": []
+}
